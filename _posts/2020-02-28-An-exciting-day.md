@@ -7,7 +7,7 @@ date: 2020-02-28
 Attended my first Vue.js Meetup downtown last night and had the very good
 fortune to meet Deepak Penmetsa, a deeply experienced Vue/Vuetify developer,
 who is willing to help me on the History Timeline Studio project when I get
-stuck.
+stuck. Hooray!
 
 This morning, more good luck checking out a repo for a vue/d3 application
 suggested by the Meetup host.  That repo contained a deploy.sh file automating
