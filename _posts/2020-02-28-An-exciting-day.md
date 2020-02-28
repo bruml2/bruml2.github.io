@@ -14,7 +14,7 @@ suggested by the Meetup host.  That repo contained a deploy.sh file automating
 the building and deploying of the app.  The deploying was done to a Github Pages
 site, something that was new to me.  So I've been at work learning about Github
 Pages with this site as first fruits. (It's also giving me a chance to become
-familiar with Jekyll, a static site generator integrated into Githu Pages.)
+familiar with Jekyll, a static site generator integrated into Github Pages.)
 
 Further goals for the day:
 
