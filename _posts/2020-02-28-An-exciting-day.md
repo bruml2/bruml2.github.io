@@ -18,8 +18,8 @@ familiar with Jekyll, a static site generator integrated into Github Pages.)
 
 Further goals for the day:
 
-- update my ruml.com home page
+- [ ] update my ruml.com home page
 
-- put a prev button on the tabs
+- [ ] put a prev button on the tabs
 
-- continue cleaning things up for Deepak
+- [ ] continue cleaning things up for Deepak
