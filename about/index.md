@@ -19,9 +19,10 @@ the timeline on it's own web page.)
 
 Below is a static version of the 
 [Overview timeline](ruml.com/thehebrewbible/timelines/overview.html) which focuses
-on what might be called the "background context" during the period covered and the
-events which led to the following context. I call these contexts "eras" although
-"perod" is a typical usage among historians.
+on what might be called the "background contexts" during the period covered and the
+events which led to each following context. I call these contexts "eras" although
+"perod" is a typical usage among historians. A typical use for the era on a timeline
+would be to denote a war, a reign, or the economic context as in the Great Depression.
 
 [timeline image]
 
