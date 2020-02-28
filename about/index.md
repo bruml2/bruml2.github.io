@@ -17,7 +17,7 @@ timelines is interactive in the sense that hovering over an element brings
 up additional information. To experience the interactivity, you need to display
 the timeline on it's own web page.)
 
-Here's a static version of the 
+Below is a static version of the 
 [Overview timeline](ruml.com/thehebrewbible/timelines/overview.html) which focuses
 on what might be called the "background context" during the period covered and the
 events which led to the following context. I call these contexts "eras" although
