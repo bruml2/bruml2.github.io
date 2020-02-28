@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Exciting Day: a New Blog!"
-date: 2014-04-30
+date: 2020-02-28
 ---
 
 Attended my first Vue.js Meetup downtown last night and had the very good
